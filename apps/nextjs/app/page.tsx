@@ -21,7 +21,7 @@ export default function Page() {
       <div className="relative z-10 flex flex-col items-center gap-16">
         <div className="flex flex-col items-center gap-4">
           <h1 className="text-center wrap-anywhere text-6xl font-black text-gray-900">
-            my.http-connectors
+            play.http-client
           </h1>
           <p className="text-center text-xl font-semibold text-gray-700">
             外部とのやり取りを検証するためのプロジェクトです。

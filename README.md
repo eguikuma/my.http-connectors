@@ -1,4 +1,4 @@
-# my.http-connectors
+# play.http-client
 
 ## 概要
 

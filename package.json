@@ -1,5 +1,5 @@
 {
-  "name": "my.http-connectors",
+  "name": "play.http-client",
   "version": "0.1.0",
   "private": true,
   "type": "module",
